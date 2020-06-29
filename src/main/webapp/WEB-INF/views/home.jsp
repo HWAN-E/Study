@@ -110,6 +110,7 @@
 	  /* margin-left: 200px; */
 	  text-align: center;
 	}
+
   </style>
 </head>
 <body>
@@ -182,56 +183,36 @@
 
 
 <div class="container text-center">    
-  <h3>What We Do</h3><br>
-  <div class="row">
-    <div class="col-sm-4">
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Current Project</p>
+  <br>
+  <div class="row maincontent">
+    <div class="" style="display:inline-block; clear : right; text-align: center; margin-top: 5px;">  
+      <img src="resources/image/hwang.jpg" class="img-responsive" style="width:285px; height: 285px;" alt="Image">
     </div>
-    <div class="col-sm-4"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Project 1</p>    
+    <div class="" style="display:inline-block; clear : right; text-align: center; margin-top: 5px;">  
+      <img src="resources/image/jeff2.jpg" class="img-responsive" style="width:285px; height: 285px;" alt="Image">
     </div>
-    <div class="col-sm-4"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Project 2</p>    
+    <div class="" style="display:inline-block; clear : right; text-align: center; margin-top: 5px;">  
+      <img src="resources/image/jeremy.jpg" class="img-responsive" style="width:285px; height: 285px;" alt="Image">
     </div>
-    <div class="col-sm-4"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Project 3</p>    
+    <br>
+    <div class="" style="display:inline-block; clear : right; text-align: center; margin-top: 5px;">   
+      <img src="resources/image/kim.jpg" class="img-responsive" style="width:285px; height: 285px;" alt="Image">
     </div>
-    <div class="col-sm-4"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Project 4</p>    
+    <div class="" style="display:inline-block; clear : right; text-align: center; margin-top: 5px;">  
+      <img src="resources/image/ryan.jpg" class="img-responsive" style="width:285px; height: 285px;" alt="Image">
     </div>
-    <div class="col-sm-4"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Project 5</p>    
+    <div class="" style="display:inline-block; clear : right; text-align: center; margin-top: 5px;"> 
+      <img src="resources/image/sadik.jpg" class="img-responsive" style="width:285px;  height: 285px;" alt="Image">
     </div>
-    <div class="col-sm-4"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Project 6</p>    
-    </div>
-    <div class="col-sm-4"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Project 7</p>    
-    </div>
-    <div class="col-sm-4"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Project 8</p>    
-    </div>
-    <div class="col-sm-4"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Project 9</p>    
-    </div>
-    <div class="col-sm-4">
+
+   <!--  <div class="col-sm-4">
       <div class="well">
        <p>Some text..</p>
       </div>
       <div class="well">
        <p>Some text..</p>
       </div>
-    </div>
+    </div> -->
   </div>
 </div><br>
 
